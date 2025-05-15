@@ -1,2 +1,0 @@
-COBA GIT
-Intern
